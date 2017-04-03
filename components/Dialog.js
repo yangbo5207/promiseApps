@@ -1,7 +1,5 @@
 define(function(require) {
 
-    // 这是一个单例模式的使用
-
     // 利用闭包的特性，判断是否已经存在实例
     var instance;
 

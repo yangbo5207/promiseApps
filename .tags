@@ -9,11 +9,6 @@ onload	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^        
 onerror	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^                img.onerror = function(err) {$/;"	function	line:13
 imageCenter	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^    var imageCenter = function(domList, mode) {$/;"	function	line:20
 switch	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^                switch (mode) {$/;"	function	line:35
-define	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^define(function(require) {$/;"	function	line:1
-Dialog	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^    function Dialog(config) {$/;"	function	line:8
-show	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        show: function() {$/;"	function	line:27
-destory	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        destory: function() {$/;"	function	line:48
-hide	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        hide: function() {$/;"	function	line:55
 html	/Users/yangbo/develop/me/promiseApps/index.html	/^<html>$/;"	function	line:2
 head	/Users/yangbo/develop/me/promiseApps/index.html	/^    <head>$/;"	function	line:3
 meta	/Users/yangbo/develop/me/promiseApps/index.html	/^        <meta charset="utf-8">$/;"	function	line:4
@@ -47,3 +42,8 @@ button.aspect	/Users/yangbo/develop/me/promiseApps/css/index.css	/^button.aspect
 define	/Users/yangbo/develop/me/promiseApps/pages/index.js	/^define(function(require) {$/;"	function	line:13
 define	/Users/yangbo/develop/me/promiseApps/components/button.js	/^define(function(require) {$/;"	function	line:1
 define	/Users/yangbo/develop/me/promiseApps/components/calendar.js	/^define(function(require) {$/;"	function	line:1
+define	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^define(function(require) {$/;"	function	line:1
+Dialog	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^    function Dialog(config) {$/;"	function	line:6
+show	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        show: function() {$/;"	function	line:25
+destory	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        destory: function() {$/;"	function	line:46
+hide	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        hide: function() {$/;"	function	line:53

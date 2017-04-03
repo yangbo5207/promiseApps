@@ -4,4 +4,8 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-define	/Users/yangbo/develop/me/promiseApps/components/calendar.js	/^define(function(require) {$/;"	function	line:1
+define	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^define(function(require) {$/;"	function	line:1
+Dialog	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^    function Dialog(config) {$/;"	function	line:6
+show	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        show: function() {$/;"	function	line:25
+destory	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        destory: function() {$/;"	function	line:46
+hide	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        hide: function() {$/;"	function	line:53
