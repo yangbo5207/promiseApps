@@ -1,0 +1,49 @@
+define	/Users/yangbo/develop/me/promiseApps/libs/API.js	/^define(function() {$/;"	function	line:2
+define	/Users/yangbo/develop/me/promiseApps/components/test.js	/^define(function(require) {$/;"	function	line:1
+define	/Users/yangbo/develop/me/promiseApps/libs/request.js	/^define(function(require) {$/;"	function	line:1
+getDayInfo	/Users/yangbo/develop/me/promiseApps/libs/request.js	/^    getDayInfo = function() {$/;"	function	line:10
+getTypeInfo	/Users/yangbo/develop/me/promiseApps/libs/request.js	/^    getTypeInfo = function() {$/;"	function	line:15
+define	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^define(function(require) {$/;"	function	line:1
+imageLoad	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^    var imageLoad = function(img) {$/;"	function	line:4
+onload	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^                img.onload = function(event) {$/;"	function	line:9
+onerror	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^                img.onerror = function(err) {$/;"	function	line:13
+imageCenter	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^    var imageCenter = function(domList, mode) {$/;"	function	line:20
+switch	/Users/yangbo/develop/me/promiseApps/components/imageCenter.js	/^                switch (mode) {$/;"	function	line:35
+define	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^define(function(require) {$/;"	function	line:1
+Dialog	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^    function Dialog(config) {$/;"	function	line:8
+show	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        show: function() {$/;"	function	line:27
+destory	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        destory: function() {$/;"	function	line:48
+hide	/Users/yangbo/develop/me/promiseApps/components/Dialog.js	/^        hide: function() {$/;"	function	line:55
+html	/Users/yangbo/develop/me/promiseApps/index.html	/^<html>$/;"	function	line:2
+head	/Users/yangbo/develop/me/promiseApps/index.html	/^    <head>$/;"	function	line:3
+meta	/Users/yangbo/develop/me/promiseApps/index.html	/^        <meta charset="utf-8">$/;"	function	line:4
+title	/Users/yangbo/develop/me/promiseApps/index.html	/^        <title>Promise应用场景<\/title>$/;"	function	line:5
+link	/Users/yangbo/develop/me/promiseApps/index.html	/^        <link rel="stylesheet" href=".\/css\/index.css">$/;"	function	line:6
+body	/Users/yangbo/develop/me/promiseApps/index.html	/^    <body>$/;"	function	line:8
+section	/Users/yangbo/develop/me/promiseApps/index.html	/^        <section class="img-wrap">$/;"	function	line:9
+div	/Users/yangbo/develop/me/promiseApps/index.html	/^            <div class="img-center">$/;"	function	line:10
+img	/Users/yangbo/develop/me/promiseApps/index.html	/^                <img src="https:\/\/timgsa.baidu.com\/timg?image&quality=80&size=b9999_10000&sec=1491191204817&di=48ea9cde3319576ed6e0b6dc6c6b75b4&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2F342ac65c103853438b3c5f8b9613b07ecb8088ad.jpg" alt="" \/>$/;"	function	line:11
+div	/Users/yangbo/develop/me/promiseApps/index.html	/^            <div class="img-center">$/;"	function	line:14
+img	/Users/yangbo/develop/me/promiseApps/index.html	/^                <img src="https:\/\/timgsa.baidu.com\/timg?image&quality=80&size=b9999_10000&sec=1491191241712&di=9dbd9c614b82f0b02c92c6e60875983a&imgtype=0&src=http%3A%2F%2Fpic5.qiyipic.com%2Fcommon%2F20130524%2F7dc5679567cd4243a0a41e5bf626ad77.jpg%3Fsrc%3Dfocustat_4_20130527_7" alt="" \/>$/;"	function	line:15
+div	/Users/yangbo/develop/me/promiseApps/index.html	/^            <div class="img-center">$/;"	function	line:18
+img	/Users/yangbo/develop/me/promiseApps/index.html	/^                <img src="https:\/\/timgsa.baidu.com\/timg?image&quality=80&size=b9999_10000&sec=1491191271233&di=0c9dd2677413beadcccd66b9d4598c6b&imgtype=0&src=http%3A%2F%2Fb.zol-img.com.cn%2Fdesk%2Fbizhi%2Fimage%2F4%2F960x600%2F1390442684896.jpg" alt="" \/>$/;"	function	line:19
+div	/Users/yangbo/develop/me/promiseApps/index.html	/^            <div class="img-center">$/;"	function	line:22
+img	/Users/yangbo/develop/me/promiseApps/index.html	/^                <img src="https:\/\/timgsa.baidu.com\/timg?image&quality=80&size=b9999_10000&sec=1491191294538&di=6474f3b560f2c100e62f118dde7e8d6c&imgtype=0&src=http%3A%2F%2Ff.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fc9fcc3cec3fdfc03dfdfafcad23f8794a4c22618.jpg" alt="" \/>$/;"	function	line:23
+button	/Users/yangbo/develop/me/promiseApps/index.html	/^        <button class="aspect">点我弹出Dialog<\/button>$/;"	function	line:26
+script	/Users/yangbo/develop/me/promiseApps/index.html	/^    <script data-main=".\/pages\/index.js" src=".\/libs\/require.js"><\/script>$/;"	function	line:28
+.img-center	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.img-center {$/;"	function	line:3
+.img-center img	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.img-center img {$/;"	function	line:11
+.img-center img.aspectFill-x	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.img-center img.aspectFill-x {$/;"	function	line:16
+.img-center img.aspectFill-y	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.img-center img.aspectFill-y {$/;"	function	line:22
+.dialog-dropback	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.dialog-dropback {$/;"	function	line:29
+.dialog-dropback .container	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.dialog-dropback .container {$/;"	function	line:38
+.dialog-dropback .head	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.dialog-dropback .head {$/;"	function	line:47
+.dialog-dropback .content	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.dialog-dropback .content {$/;"	function	line:52
+button	/Users/yangbo/develop/me/promiseApps/css/index.css	/^button {$/;"	function	line:59
+.dialog-dropback .footer	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.dialog-dropback .footer {$/;"	function	line:64
+.dialog-dropback .footer button	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.dialog-dropback .footer button {$/;"	function	line:68
+.cancel	/Users/yangbo/develop/me/promiseApps/css/index.css	/^.cancel {$/;"	function	line:74
+button.aspect	/Users/yangbo/develop/me/promiseApps/css/index.css	/^button.aspect {$/;"	function	line:79
+define	/Users/yangbo/develop/me/promiseApps/pages/index.js	/^define(function(require) {$/;"	function	line:13
+define	/Users/yangbo/develop/me/promiseApps/components/button.js	/^define(function(require) {$/;"	function	line:1
+define	/Users/yangbo/develop/me/promiseApps/components/calendar.js	/^define(function(require) {$/;"	function	line:1
